@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manahil! <br/><a href="https://github.com/joshmadakor1">Computer Science Student, Learning enthusiast </a>
+<h1>Hi, I'm Manahil! <br/><a href="https://github.com/joshmadakor1">Computer Science Student and Learning enthusiast </a>
 
 <H2> 🛠 Currently I am working on:</H2>
  
