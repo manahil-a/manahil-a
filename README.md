@@ -1,18 +1,22 @@
-<h1>Hi, I'm Manahil! <br/><a href="https://github.com/joshmadakor1">Computer Science Student @ UAlberta</a>, 
+<h1>Hi, I'm Manahil! <br/><a href="https://github.com/joshmadakor1">Computer Science Student, Learning enthusiast </a>
 
+<H2> 🛠 Currently I am working on:</H2>
+ 
+<b>ASL Detection <b>
 
-<h2>👨‍💻 Check out what i've been working on:</h2>
+ <b> *this program utilizes machine learning and computer vision concepts to detect and transcribe American Sign Language* <b>
+  - [Repo: ASL Detectior](actualLink)
 
- <b>Event Mangement App (android app development)</b>
-  - [Repo: Event Manager](actualLink)
+<h2>👩🏻‍💻 Check out my previous work:</h2>
+
+ <b>DBMS Login Program</b>
+  - [Repo: Password Manager DBMS](actualLink)
 
 <b>Algorithm Comparision in C</b>
   - [Repo: Algorithm Comparision in C](actualLink)
  
- <b>ASL Detection (machine learning)</b>
-  - [Repo: ASL Detectior](actualLink)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🧩 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
