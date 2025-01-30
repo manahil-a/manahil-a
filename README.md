@@ -1,6 +1,7 @@
 <h1>Hi, I'm Manahil! <br/><a href="https://github.com/manahil-a">Computer Science Student and Learning Enthusiast </a>
 
-<h2>🚀 Always learning, always experimenting let's build something cool!</h2>
+#### 🚀 Always learning and always experimenting let's build something cool!
+
 
 <H2> 🛠 Currently I am working on:</H2>
  
