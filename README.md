@@ -3,8 +3,14 @@
 
 <h2>👨‍💻 Check out what i've been working on:</h2>
 
-- <b>name</b>
-  - [link name](actualLink)
+ <b>Event Mangement App (android app development)</b>
+  - [Repo: Event Manager](actualLink)
+
+<b>Algorithm Comparision in C</b>
+  - [Repo: Algorithm Comparision in C](actualLink)
+ 
+ <b>ASL Detection (machine learning)</b>
+  - [Repo: ASL Detectior](actualLink)
 
 <h2> 🤳 Connect with me:</h2>
 
