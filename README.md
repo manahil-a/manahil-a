@@ -9,7 +9,7 @@
 
 <h2>👩🏻‍💻 Check out my previous work:</h2>
 
- <b>DBMS Login Program</b>
+ <b>DBMS Login Manager</b>
   - [Repo: Password Manager DBMS](actualLink)
 
 <b>Algorithm Comparision in C</b>
