@@ -18,9 +18,12 @@
 
 <h2> 🧩 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="35px" src="https://github.com/user-attachments/assets/3f7b0aaa-c2f3-4e3d-bbe0-55814a32f1d8" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/manahil-a8228422b/
+
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
