@@ -18,7 +18,7 @@
 <b>Algorithm Comparision in C</b>
   - [Repo: Algorithm Comparision in C]()
 
-*... more coming soon*
+*... more links and projects coming soon*
  
 
 <h2> 🧩 Connect with me:</h2>
