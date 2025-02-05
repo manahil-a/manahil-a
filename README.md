@@ -8,15 +8,15 @@
 <b>ASL Detection <b>
 
  <b> *this program utilizes machine learning and computer vision concepts to detect and transcribe American Sign Language* <b>
-  - [Repo: ASL Detectior](actualLink)
+  - [Repo: ASL Detectior]()
 
 <h2>👩🏻‍💻 Check out my previous work:</h2>
 
  <b>DBMS Login Manager</b>
-  - [Repo: Password Manager DBMS](actualLink)
+  - [Repo: Password Manager DBMS]()
 
 <b>Algorithm Comparision in C</b>
-  - [Repo: Algorithm Comparision in C](actualLink)
+  - [Repo: Algorithm Comparision in C]()
 
 *... more coming soon*
  
