@@ -13,7 +13,7 @@
 <h2>👩🏻‍💻 Check out my previous work:</h2>
 
  <b>DBMS Login Manager</b>
-  - [Repo: Password Manager DBMS]()
+  - [Repo: Password Manager DBMS](https://github.com/manahil-a/Password-Manager-DBMS/tree/main)
 
 <b>Algorithm Comparision in C</b>
   - [Repo: Algorithm Comparision in C]()
