@@ -4,7 +4,7 @@
 
 
 <H2> 🛠 Currently I am working on:</H2>
- 
+ <b>*Coming soon*</b>
 
 <h2>👩🏻‍💻 Check out my previous work:</h2>
 
