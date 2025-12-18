@@ -5,10 +5,6 @@
 
 <H2> 🛠 Currently I am working on:</H2>
  
-<b>ASL Detection <b>
-
- <b> *this program utilizes machine learning and computer vision concepts to detect and transcribe American Sign Language* <b>
-  - [Repo: ASL Detectior]()
 
 <h2>👩🏻‍💻 Check out my previous work:</h2>
 
