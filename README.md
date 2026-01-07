@@ -3,6 +3,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manahil-a8228422b)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifmanahil652@gmail.com) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arifmanahil652)
+
 
 # 💫 About Me:
 I am passionate about building products that solve real problems. Interested in product management, tech, and turning ideas into practical solutions.
