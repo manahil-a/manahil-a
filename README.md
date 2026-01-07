@@ -26,11 +26,6 @@ I am passionate about building products that solve real problems. Interested in 
 ### ✍️ A Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manahil-a&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manahil-a&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manahil-a&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manahil-a&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -51,6 +46,12 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manahil-a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manahil-a&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=manahil-a&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manahil-a&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <h1>Hi, I'm Manahil! <br/><a href="https://github.com/manahil-a">Computer Science Student and Learning Enthusiast </a>
 
