@@ -1,7 +1,8 @@
 <h1>Hi, I'm Manahil! <br/><a href="https://github.com/manahil-a">Computer Science Student and Learning Enthusiast </a>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manahil-a8228422b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifmanahil652@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manahil-a8228422b)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifmanahil652@gmail.com) 
 
 # 💫 About Me:
 I am passionate about building products that solve real problems. Interested in product management, tech, and turning ideas into practical solutions.
