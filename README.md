@@ -21,7 +21,7 @@ I am passionate about building products that solve real problems. Interested in 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](manahil-a8228422b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifmanahil652@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manahil-a8228422b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifmanahil652@gmail.com) 
 
 ### ✍️ A Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
