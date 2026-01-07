@@ -1,6 +1,19 @@
 # 💫 About Me:
 CS student passionate about building products that solve real problems. Interested in product management, tech, and turning ideas into practical solutions.
 
+## 🛠 Currently I am working on:
+**Coming soon**
+
+## 👩🏻‍💻 Check out my previous work:
+
+**DBMS Login Manager**  
+- [Repo: Password Manager DBMS](https://github.com/manahil-a/Password-Manager-DBMS/tree/main)
+
+**Algorithm Comparison in C**  
+- [Repo: Algorithm Comparison in C](#)  
+
+*… more projects coming soon!*
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manahil-a8228422b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifmanahil652@gmail.com) 
